@@ -66,7 +66,8 @@ earthengine-api==0.1.227
 easydict==1.9
 ecos==2.0.7.post1
 editdistance==0.5.3
-en-core-web-sm==2.2.5
+spacy>=2.0.0,<3.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz#egg=en_core_web_sm
 entrypoints==0.3
 ephem==3.7.7.1
 et-xmlfile==1.0.1
@@ -305,7 +306,6 @@ sklearn-pandas==1.8.0
 smart-open==2.1.0
 snowballstemmer==2.0.0
 sortedcontainers==2.2.2
-spacy==2.2.4
 Sphinx==1.8.5
 sphinxcontrib-websupport==1.2.3
 SQLAlchemy==1.3.18
