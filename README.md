@@ -1,4 +1,7 @@
 # Car-Brand-Prediction
+## <p align="right">  
+  Is it a Lamborgini, Audi or a Ferrari ?
+</p>
 ### Deep Learning Model for predicting Car brands from their Images Using Transfer Learning 
 
 #### Model Used: *Resnet 50*
