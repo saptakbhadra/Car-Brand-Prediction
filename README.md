@@ -12,7 +12,8 @@ Here we have used **Resnet 50** to train the model for Predicting the Brand of t
 <dl>
   <dt>What is Transfer Learning</dt>
   <dd> It is the process in which we use the stored knowledge of one probelem and use it in some other problem.This is very helpful for training deep learning Models
-    Especially if one doesn't have the hardware requirements. Here we use IMAGENET as the pretrained model for getting the weights and traing the model for a fraction of the time required . [Click Here to know more](https://en.wikipedia.org/wiki/Transfer_learning#:~:text=Transfer%20learning%20(TL)%20is%20a,when%20trying%20to%20recognize%20trucks.)</dd>
+    Especially if one doesn't have the hardware requirements. Here we use IMAGENET as the pretrained model for getting the weights and traing the model for a fraction of the time required . </dd>
+  [Click Here to know more](https://en.wikipedia.org/wiki/Transfer_learning#:~:text=Transfer%20learning%20(TL)%20is%20a,when%20trying%20to%20recognize%20trucks.)
  </dl>
 
 <dl>
