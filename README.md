@@ -3,7 +3,10 @@
 
 #### Model Used: *Resnet 50*
 Here we have used **Resnet 50** to train the model for Predicting the Brand of the Car 
-![Resnet Architecture](https://miro.medium.com/max/1059/1*hEU7S-EiVqcmtAlj6kgfRA.png)
+<figure>
+  <img src="https://miro.medium.com/max/1059/1*hEU7S-EiVqcmtAlj6kgfRA.png" alt=".." title="Resnet50 Architecture" />
+  <figcaption>Resnet50 Architecture</figcaption>
+</figure>
 
 [Click Here to know more about **RESNET 50**](https://www.kaggle.com/keras/resnet50)
 
